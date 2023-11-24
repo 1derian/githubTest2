@@ -6,7 +6,7 @@ on:
   push:
     # 创建 tag 时
     tags:
-      - v*
+      - 'v*'
     # 推送到 master 分支时
     branchs:
       - master
